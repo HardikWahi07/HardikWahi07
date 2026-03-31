@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+scalable+systems;Designing+clean+interfaces;Exploring+AI+and+automation;Turning+ideas+into+products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+scalable+systems;Designing+clean+interfaces;Exploring+AI+and+automation;Turning+ideas+into+products" />
 </p>
 
 <p align="center">
@@ -43,6 +43,30 @@ A travel platform simplifying discovery, planning, and exploration experiences.
 - Scaling freelance work  
 - Creating impactful real-world products  
 - Improving system design and architecture  
+
+---
+
+## GitHub Insights
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HardikWahi07&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=HardikWahi07&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HardikWahi07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikWahi07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
 ---
 
