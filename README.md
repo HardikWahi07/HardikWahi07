@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hardik%20Wahi&fontSize=55&fontAlign=50&fontAlignY=38&color=0:0F2027,30:203A43,60:2C5364,100:00C9FF&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Hardik%20Wahi&fontSize=60&fontAlign=50&fontAlignY=38&color=0:0F2027,30:203A43,60:2C5364,100:00C9FF&fontColor=ffffff&animation=twinkling" />
 
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Building+scalable+systems;Designing+clean+interfaces;Exploring+AI+and+automation;Turning+ideas+into+products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+scalable+systems;Designing+clean+interfaces;Exploring+AI+and+automation;Turning+ideas+into+products" />
 </p>
 
 <p align="center">
@@ -14,70 +14,39 @@
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:2C5364"/>
-</p>
+## About
 
-<img align="right" height="180" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
-
-### About
-
-I build systems that are fast, scalable, and intuitive.  
-Focused on turning complex ideas into real, usable products with clean design and solid architecture.
+I build high-performance systems that are clean, scalable, and user-focused.  
+My work blends engineering, design, and product thinking to create real-world impact.
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:2C5364"/>
-</p>
+## Work
 
-### What I Work On
+### Avadh Business Community Bizzhub
+A platform designed to connect businesses and enable collaboration within a unified ecosystem.
 
-- Scalable web platforms  
-- AI-powered systems and automation  
-- Developer tools and workflows  
-- High-quality UI/UX experiences  
+### Ecco Paper Products
+A modern, conversion-focused website built around sustainable packaging solutions.
 
----
+### Local Truth
+A content-first platform focused on delivering transparent and reliable local insights.
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:2C5364"/>
-</p>
-
-### Featured Projects
-
-**Avadh Business Community Bizzhub**  
-Platform focused on connecting businesses and enabling collaboration within a unified ecosystem.
-
-**Ecco Paper Products**  
-Modern website focused on sustainable packaging solutions with a clean and conversion-driven design.
-
-**Local Truth**  
-Content-driven platform aimed at delivering transparent and reliable local insights.
-
-**Trip Minds**  
-Travel-oriented platform designed to simplify discovery, planning, and exploration.
+### Trip Minds
+A travel platform simplifying discovery, planning, and exploration experiences.
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:2C5364"/>
-</p>
-
-### Current Direction
+## Focus
 
 - Building production-ready systems  
 - Scaling freelance work  
-- Participating in global competitions  
+- Working on impactful real-world products  
 - Improving system design and architecture  
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:2C5364"/>
-</p>
-
-### GitHub Overview
+## GitHub Insights
 
 <p align="center">
 
@@ -93,23 +62,23 @@ Travel-oriented platform designed to simplify discovery, planning, and explorati
 
 ---
 
-### Activity
+## Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HardikWahi07&theme=react-dark&hide_border=true">
 
 ---
 
-### Contribution Pattern
+## Stats
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikWahi07&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-### Connect
+## Connect
 
 <p align="center">
 
