@@ -17,22 +17,22 @@
 ## About
 
 I build high-performance systems that are clean, scalable, and user-focused.  
-My work blends engineering, design, and product thinking to create real-world impact.
+I focus on turning complex ideas into real-world products with strong design and solid engineering.
 
 ---
 
 ## Work
 
-### Avadh Business Community Bizzhub
+### Avadh Business Community Bizzhub  
 A platform designed to connect businesses and enable collaboration within a unified ecosystem.
 
-### Ecco Paper Products
+### Ecco Paper Products  
 A modern, conversion-focused website built around sustainable packaging solutions.
 
-### Local Truth
+### Local Truth  
 A content-first platform focused on delivering transparent and reliable local insights.
 
-### Trip Minds
+### Trip Minds  
 A travel platform simplifying discovery, planning, and exploration experiences.
 
 ---
@@ -41,7 +41,7 @@ A travel platform simplifying discovery, planning, and exploration experiences.
 
 - Building production-ready systems  
 - Scaling freelance work  
-- Working on impactful real-world products  
+- Creating impactful real-world products  
 - Improving system design and architecture  
 
 ---
@@ -49,32 +49,30 @@ A travel platform simplifying discovery, planning, and exploration experiences.
 ## GitHub Insights
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HardikWahi07&theme=tokyonight" />
-
 </p>
 
 <p align="center">
-
 <img src="https://nirzak-streak-stats.vercel.app?user=HardikWahi07&theme=tokyonight&hide_border=true" />
-
 </p>
 
 ---
 
-## Activity
+## Live Metrics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HardikWahi07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikWahi07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contribution Timeline
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HardikWahi07&theme=react-dark&hide_border=true">
-
----
-
-## Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikWahi07&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
 
 ---
 
