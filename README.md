@@ -46,6 +46,20 @@ A travel platform simplifying discovery, planning, and exploration experiences.
 
 ---
 
+## Contribution Timeline
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HardikWahi07&theme=react-dark&hide_border=true">
+
+---
+
+## GitHub Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
 ## GitHub Insights
 
 <p align="center">
