@@ -44,20 +44,19 @@ Focused on turning complex ideas into real, usable products with clean design an
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C9FF,100:2C5364"/>
 </p>
 
-### Selected Work
+### Featured Projects
 
-**Portfolio Platform**  
-Interactive portfolio with custom motion, cursor interactions, and responsive layouts.
+**Avadh Business Community Bizzhub**  
+Platform focused on connecting businesses and enabling collaboration within a unified ecosystem.
 
-**AI / FinTech Systems**
-- GuardianAI — financial monitoring  
-- KarmoScore — credit intelligence  
-- UPI Sentinel — fraud detection  
+**Ecco Paper Products**  
+Modern website focused on sustainable packaging solutions with a clean and conversion-driven design.
 
-**Other Builds**
-- BioSense Mesh — sensing network  
-- NeuroBand — predictive wearable  
-- StorySense — adaptive learning system  
+**Local Truth**  
+Content-driven platform aimed at delivering transparent and reliable local insights.
+
+**Trip Minds**  
+Travel-oriented platform designed to simplify discovery, planning, and exploration.
 
 ---
 
@@ -105,26 +104,6 @@ Interactive portfolio with custom motion, cursor interactions, and responsive la
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-
-</p>
-
----
-
-### Mini Interaction Zone
-
-<p align="center">
-
-<!-- Typing game vibe -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1500&pause=500&color=00C9FF&center=true&vCenter=true&width=600&lines=Click+around+the+profile;Everything+is+alive+here;Keep+scrolling..." />
-
-</p>
-
-<p align="center">
-
-<!-- fake "button" interaction -->
-<a href="https://github.com/HardikWahi07">
-<img src="https://img.shields.io/badge/Explore%20My%20Work-00C9FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
 
 </p>
 
