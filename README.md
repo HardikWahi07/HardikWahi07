@@ -49,7 +49,7 @@ A travel platform simplifying discovery, planning, and exploration experiences.
 ## GitHub Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/HardikWahi07/HardikWahi07/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
